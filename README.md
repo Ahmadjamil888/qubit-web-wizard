@@ -2,7 +2,7 @@
 
 ## Project info made by
 
-**URL**: https://ahmadjamil888.github.io/iyuser.html
+**URL**: https://qubit-webowizard.vercel.app/
 
 ## How can I edit this code?
 
@@ -20,10 +20,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Ahmadjamil888/qubit-web-wizard.git
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd qubit-web-wizard
 
 # Step 3: Install the necessary dependencies.
 npm i
