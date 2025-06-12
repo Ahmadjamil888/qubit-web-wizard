@@ -2,7 +2,7 @@
 
 ## Project info made by
 
-**URL**: https://qubit-webowizard.vercel.app/
+**URL**: https://qubit-web-wizard.vercel.app/
 
 ## How can I edit this code?
 
